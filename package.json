@@ -1,0 +1,28 @@
+const f1 = {
+    nom : "mehdi",
+    prenom :"benziti",
+    ville :  "safi",
+    dateDeNaissance  : "28/07/2008",
+    notes : [20,20,20],
+}
+const f2 = {
+    nom : "FatimaEzzahrae",
+    prenom : "loin",
+    ville : "safi",
+    dateDeNaissance : "14/10/2003",
+    notes : [17,16,19]
+}
+const f3 = {
+    nom : "abdeAli",
+    prenom : "aitBouuras",
+    ville : "marrakche",
+    dateDeNaissance : " 24/03/2007",
+    notes : [17,18,19],
+}
+const classRoom =  {
+   numClasses : 56,
+   etudiants : [f1,f2,f3],
+   campusClasses :"safi",
+    nomClasses : " Classe achraf",
+    }
+console.log(classRome.etudion[0].not.length)
